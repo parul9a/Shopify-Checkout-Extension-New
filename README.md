@@ -1,1 +1,0 @@
-# Shopify-Checkout-Extension-New
